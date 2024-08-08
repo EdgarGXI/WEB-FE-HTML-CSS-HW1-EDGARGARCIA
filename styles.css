@@ -10,7 +10,7 @@ body {
 header {
     background-image: url('img/header-background.jpg');
     background-size: cover;
-    color: #ffffff;
+    color: #000000;
     padding: 20px;
     text-align: center;
 }
